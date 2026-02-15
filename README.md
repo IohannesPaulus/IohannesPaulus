@@ -16,7 +16,6 @@ HTML, CSS.
 
 ## 📈 Github statistics (I'm little new here, I used to work with DevOps)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 ## 📫 
 
