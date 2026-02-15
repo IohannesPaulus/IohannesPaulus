@@ -7,7 +7,8 @@ mainly in .NETtechnologies. I also have knowledge working with JavaScript (JQuer
 I like continuous learning, always open to improve. I love peace.
 Trying always to be a better person.
 
-## 🛠 Skills yand knowledge
+## 🛠 Skills and knowledge
+
 C#
 JavaScript
 SQL Server
@@ -18,5 +19,6 @@ HTML, CSS.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 ## 📫 
+
 *   📧 Email: juanpablosej@gmail.com
 *   💼 LinkedIn: www.linkedin.com/in/juan-pablo-serna-4b25931b4
